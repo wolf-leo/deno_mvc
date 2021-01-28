@@ -21,7 +21,7 @@ Deno初体验：一个简单的MVC案例
 
 2.  控制台输入 deno --version 检测版本号
 3.  deno run -A server.ts 启动服务
-
+4.  访问 http://localhost:8000/index.html 浏览首页
 
 #### demo说明
 
